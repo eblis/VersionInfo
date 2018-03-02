@@ -1,0 +1,3 @@
+..\docs\pack files\*.*
+..\docs\*.*
+..\*.*
